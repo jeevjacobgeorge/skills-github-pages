@@ -1,4 +1,4 @@
 ---
-title: Welcome to jeev's blog
+title: Welcome to my blog
 ---
 
